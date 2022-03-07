@@ -1,0 +1,7 @@
+admin@email.com/duyHSU1!
+myenv\Scripts\activate
+cd .\backend\
+python manage.py runserver
+cd .\frontend\
+npm install
+npm start
